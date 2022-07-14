@@ -1,0 +1,3 @@
+# The C Programming Language 2nd Edition
+## these are my progress...
+
