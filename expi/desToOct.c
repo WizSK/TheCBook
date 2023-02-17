@@ -35,7 +35,7 @@ int main(void) {
         }
         printf(".");
         ret = dbl(dosomik, oct);
-        for (int a;a >= ret; a++)
+        for (int a = 0;a <= ret; a++)
         {
             printf("%d", oct[a]);
         }
