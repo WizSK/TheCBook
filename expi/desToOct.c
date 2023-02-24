@@ -1,8 +1,5 @@
 #include <stdio.h>
-/* 
- * TODO:
- *      1. vai dosomiker por to show kore na lol
- */
+
 
 #define MAXARR 100
 
