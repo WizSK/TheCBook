@@ -1,0 +1,6 @@
+#!/bin/sh
+while true
+do 
+    inotifywait ./$1 && gcc ./$1 && ./a.out
+done
+
